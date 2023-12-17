@@ -11,5 +11,6 @@
   "iot_class": "calculated",
   "requirements": [],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "0.0.0"
 }
